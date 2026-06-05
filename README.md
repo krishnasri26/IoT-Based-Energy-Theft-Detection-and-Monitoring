@@ -63,6 +63,9 @@ For practical demonstration, an energy meter, two bulb holders, and switches are
         |
       Consumer Load
 
+
+
+
 ACS712 Data
       |
       v
@@ -134,7 +137,6 @@ ACS712 Data
 | Arduino | ESP8266 |
 | ------- | ------- |
 | TX      | RX      |
-| RX      | TX      |
 | GND     | GND     |
 
 ---
